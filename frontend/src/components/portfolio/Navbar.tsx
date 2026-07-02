@@ -51,7 +51,7 @@ export function Navbar() {
             />
 
             <span className="text-lg tracking-tight">
-              Pranaksh<span className="text-gradient">.</span>
+              Pranaksh Solutions<span className="text-gradient">.</span>
             </span>
           </a>
 
