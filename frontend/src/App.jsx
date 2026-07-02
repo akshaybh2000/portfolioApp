@@ -10,6 +10,7 @@ import { Process } from "./components/portfolio/Process";
 import { Pricing } from "./components/portfolio/Pricing";
 import { Testimonials } from "./components/portfolio/Testimonials";
 import { WhyChooseUs } from "./components/portfolio/WhyChooseUs";
+import { Toaster } from "sonner";
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
       <WhyChooseUs />
       <Contact />
       <Footer />
+      <Toaster position="top-right" richColors />
     </>
   );
 }
