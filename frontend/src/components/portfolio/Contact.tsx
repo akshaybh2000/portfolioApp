@@ -102,12 +102,12 @@ export function Contact() {
             value="@pranaksh.solutions"
             href="https://instagram.com"
           />
-          <InfoLine
+          {/* <InfoLine
             Icon={Globe}
             title="LinkedIn"
             value="Pranaksh Solutions"
             href="https://linkedin.com"
-          />
+          /> */}
           <InfoLine
             Icon={MapPin}
             title="Based in"
